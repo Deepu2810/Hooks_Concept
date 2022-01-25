@@ -125,7 +125,7 @@ function Home(props) {
           alignSelf: 'center',
           marginTop: hp(5),
         }}>
-        <Text>Anthati</Text>
+        <Text>Deepak Anthati</Text>
         {/* <Text>{appUpdateStatusPostUpdate}</Text> */}
 
         {/* 1st */}
