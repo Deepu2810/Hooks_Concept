@@ -125,7 +125,8 @@ function Home(props) {
           alignSelf: 'center',
           marginTop: hp(5),
         }}>
-        <Text>{appUpdateStatusPostUpdate}</Text>
+        <Text>Anthati</Text>
+        {/* <Text>{appUpdateStatusPostUpdate}</Text> */}
 
         {/* 1st */}
         {/* <Text>Count: {count}</Text> */}
